@@ -16,4 +16,14 @@ Meetings and DNS events https://www.encrypted-dns.org/events
      9.19.19          London  
      
     
+## Background and Tutorials
+
+M3AAWG encrypted DNS (eDNS) [tutorial ](https://www.m3aawg.org/sites/default/files/m3aawg-dns-crypto-tutorial-2018-09.pdf)
+
+M3AAWG DNS cryto [recipes](https://www.m3aawg.org/sites/default/files/m3aawg-dns-crypto-recipes-2018-09.pdf) on setting up encrypted DNS stub resolver-to-recursive resolver traffic on Mac OS X, Windows, phones, routers etc.
+    
+
+## Proposals
+
+
 
