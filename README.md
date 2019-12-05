@@ -7,13 +7,15 @@ Meetings and DNS events https://www.encrypted-dns.org/events
 ---
 ## EDDI meet ups
 ### Upcomming
-    11.1.19           London  https://www.eventbrite.com/e/eddi-11119-london-meetup-tickets-76786854549
-    12.6.19           London  signup to come
-    11.16.19-11.22.19 IETF106 EDDI details to come
+    
+    12.6.19           London  
+    March 2020.       IETF107
       
-    Early 2020 North America - TBA
+    Early 2020 North America - Working on Feb 2020 in San Francisco
    
 ###  Past:
+     11.19.19         IETF106
+     11.1.19          London  
      9.19.19          London  
      
 ---
