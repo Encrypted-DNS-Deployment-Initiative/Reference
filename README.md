@@ -10,9 +10,9 @@ Meetings and DNS events https://www.encrypted-dns.org/events
     
     1.30.20.         London 
     2.9.20           San Francisco in partnership with DNS-OARC 32  
-    March 2020       IETF107 side meeting
+    March 2020       IETF107 Vancouver side meeting
       
-    Early 2020 North America - Working on Feb 2020 in San Francisco
+ 
    
 ###  Past:
      12.6.19          London 
