@@ -8,12 +8,14 @@ Meetings and DNS events https://www.encrypted-dns.org/events
 ## EDDI meet ups
 ### Upcomming
     
-    12.6.19           London  
-    March 2020.       IETF107
+    1.30.20.         London 
+    2.9.20           San Francisco in partnership with DNS-OARC 32  
+    March 2020       IETF107 side meeting
       
     Early 2020 North America - Working on Feb 2020 in San Francisco
    
 ###  Past:
+     12.6.19          London 
      11.19.19         IETF106
      11.1.19          London  
      9.19.19          London  
