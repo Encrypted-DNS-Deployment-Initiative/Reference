@@ -2,7 +2,9 @@
 
 Reference Wiki https://github.com/Encrypted-DNS-Deployment-Initiative/Reference/wiki/EDDI-Home
 
-Meetings and DNS events https://www.encrypted-dns.org/events
+Meetings and DNS events including registratin link is at: https://www.encrypted-dns.org/events
+
+Past meeting materials are available in the [meetings](./meetings) folder.
 
 ---
 ## EDDI meet ups
@@ -14,11 +16,12 @@ Meetings and DNS events https://www.encrypted-dns.org/events
       
  
    
-###  Past:
-     12.6.19          London 
-     11.19.19         IETF106
-     11.1.19          London  
-     9.19.19          London  
+###  Past
+ 
+   [London 12.6.19](./meetings/12.6.19-London)<br>
+   [IETF106 11.19.106](./meetings/11.19.19-IETF106)<br>
+   [London 11.1.19](./meetings/11.1.19-London)<br>
+   [London 9.19.19](./meetings/9.19.19-London)  
      
 ---
 
