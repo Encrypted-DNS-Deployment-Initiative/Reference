@@ -2,7 +2,7 @@
 
 Reference Wiki https://github.com/Encrypted-DNS-Deployment-Initiative/Reference/wiki/EDDI-Home
 
-Meetings and DNS events including registratin link is at: https://www.encrypted-dns.org/events
+Meetings and DNS events including registration link is at: https://www.encrypted-dns.org/events
 
 Past meeting materials are available in the [meetings](./meetings) folder.
 
