@@ -6,6 +6,12 @@ Meetings and DNS events including registration links are at: https://www.encrypt
 
 Past meeting materials are available in the [meetings](./meetings) folder.
 
+
+---
+## Activity
+
+Use-cases are being developed at https://github.com/Encrypted-DNS-Deployment-Initiative/Use-Cases
+
 ---
 ## EDDI meet ups
 ### Upcomming
